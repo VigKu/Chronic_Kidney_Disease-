@@ -12,5 +12,7 @@ Summary of contents in this repo:
 		6) test.py: evaluate with test dataset
 		7) model.py: contains the model constructors
 		8) utils.py: contains functions needed for python files above
+	PDF:
+		Project presentation.
 	Others:
 		Include csv files that are products and inputs of intermediate steps.
